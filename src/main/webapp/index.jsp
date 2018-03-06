@@ -1,0 +1,190 @@
+<%@ page language="java" contentType="text/html; charset=utf-8" pageEncoding="UTF-8"%>
+<html class="no-js" lang="">
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title>❤❤</title>
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+
+        <link rel="apple-touch-icon" href="apple-touch-icon.png">
+        <!-- Place favicon.ico in the root directory -->
+
+        <link rel="stylesheet" href="css/bootstrap.min.css">
+        <link rel="stylesheet" href="css/bootstrap-theme.min.css">
+        <link rel="stylesheet" href="css/font-awesome.min.css">
+        <link rel="stylesheet" href="css/normalize.css">
+        <link rel="stylesheet" href="css/index.css">
+        <link rel="stylesheet" href="css/fonts.css">
+        <script src="js/modernizr-2.8.3.min.js"></script>
+    </head>
+    <body data-post="#/kareeb-a-free-html-coming-soon-website-template-jquery-counter">
+        <!--[if lt IE 8]>
+            <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+        <![endif]-->
+
+           
+            <div class="container">
+                <div class="row">
+                    <div class="header">
+                                <h1>We have been together for</h1>
+                                <img class="img-responsive" src="images/header_border.jpg" alt="header one border"/>
+                               <p>We are all travelling through time together, everyday of our lives. All we can do is do our best to relish this remarkable ride.</br>Best wishes to our love.
+                                </p>
+                    </div><!-- header end -->
+		          </div>
+             </div>
+		        <section>
+		              <div class="container">
+		                  <div class="row">
+		                      <div class="count_down">
+		                          <ul id="kareeb_countdown">
+                                      <li><span class="days">00</span><p class="days_text">Days</p></li>
+                                      <li><span class="hours">00</span><p class="hours_text">Hours</p></li>
+                                      <li><span class="minutes">00</span><p class="minutes_text">Minutes</p></li>
+                                      <li><span class="seconds">00</span><p class="seconds_text">Seconds</p></li>
+                                </ul>
+		                      </div>
+		                  </div>
+		              </div>
+		        </section><!-- counnt dwon end -->
+				<div class="container">
+                	<div class="row">
+                        <footer class="col-md-12 border">
+                            <h1 id="index_love" onclick="tomain()">Love</h1>
+                          <img class="img-responsive" src="images/footer_border.jpg" alt="footer border"/>
+                            <div class="footer-menu">
+                                <ul class="menu">
+                                    <li><a class="about_content_open" href="#">About Us</a></li>
+                                    <li><a class="newsletter_content_open" href="#">Newsletter</a></li>
+                                    <li><a class="contact_open" href="#">Contact</a></li>
+                                </ul>
+                             </div>
+                            <p>Copyright lxs&wsh 2016-2017. All Rights Reserved.</p>
+                            <div class="footer-social_menu">
+                                <ul class="social_icon">
+                                    <li><a href="#"><i class="fa fa-facebook"></i></a></li>
+                                    <li><a href="#"><i class="fa fa-twitter"></i></a></li>
+                                    <li><a href="#"><i class="fa fa-dribbble"></i></a></li>
+                                </ul>
+                            </div>
+                        </footer><!-- Footer end -->
+                	</div>
+                </div>
+                
+                <!--About us Markup-->
+                <div class="container" id="about-us">
+                    <div class="row">
+                        <div class="about_content" id="about_content">
+                           <div class="cross_btn"><a href=""><span class="my_popup_close fa fa-close"></span></a></div>
+                            <div class="left_content col-sm-12 col-md-6">
+                                    <h1>About us</h1>
+                                    <h4>We offer free templates & themes</h4>
+                                    <p>    
+                                        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed turpis lectus,                                             vulputate sed convallis et, consequat nec magna. Nunc nec odio sed enim                                                 sagittis egestas. Donec non quam at metus lacinia accumsan. 
+                                    </p>
+                                       <h4> Download everything for free!</h4>
+                                    <p>
+                                        Quisque tincidunt justo nec arcu luctus, eu ullamcorper turpis gravida. Aliquam                                         mattis tortor ut odio aliquam, et auctor leo viverra.  Pellentesque accumsan                                            massa sed tortor interdum lacinia. Duis vestibulum tincidunt eros at                                                     sollicitudin. Donec auctor tempus metus eget elementum. Suspendisse potenti.
+                                    </p>
+                                    <ul class="address-details">
+                                        <li><i class="fa fa-map-marker"></i> Green Place, New Plaza, Washington</li>
+                                        <li><i class="fa fa-map-marker"></i> 1 871 871 9922</li>
+                                        <li><i class="fa fa-home"></i> <a href="#">#</a></li>
+                                        <li><i class="fa fa-envelope"></i> <a href="">webmaster@#</a></li>
+                                    </ul>
+                            </div>
+                            
+                        
+                            <div class="right_content col-sm-12 col-md-6">
+                                <h1>What we do</h1>
+                                <h4>We offer free templates & themes</h4>
+                                    <p>    
+                                        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed turpis lectus,                                             vulputate sed convallis et, consequat nec magna. Nunc nec odio sed enim                                                 sagittis egestas. Donec non quam at metus lacinia accumsan. 
+                                    </p>
+                                       <h4> Download everything for free!</h4>
+                                    <p>
+                                        Quisque tincidunt justo nec arcu luctus, eu ullamcorper turpis gravida. Aliquam                                         mattis tortor ut odio aliquam, et auctor leo viverra.  Pellentesque accumsan                                            massa sed tortor interdum lacinia. Duis vestibulum tincidunt eros at                                                     sollicitudin. Donec auctor tempus metus eget elementum. Suspendisse potenti.
+                                    </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                                
+                <!--Newsletter Markup-->
+                <div class="container">
+                	<div class="row">
+                   	<div >
+                    	<div class="contuct_us newsletter .center-pane"  id="newsletter_content">
+                                <h1>Newsletter
+                                <a href=""><span class="my_popup_close fa fa-close"></span></a>
+                                </h1>
+                                
+                            <form>
+                                <div class="col-lg-12 col-md-12 col-sx-12">Stay updated. Type your email address tosubscribe our feed</div>
+                                <div class="col-lg-12 col-md-12 col-sx-12">
+                                	
+                                   <input type="email" name="email">
+                                </div>
+                                
+                                <div class="col-lg-12 col-md-12 col-sx-12">
+                                <input type="submit" class="btn btn-success btn-block" value="Send">
+                                </div>
+                                 
+                               
+
+                            </form>
+                        </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <!--Contact Markup-->
+                 <div class="container">
+                	<div class="row">
+                    	<div class="contuct_us" id="contact">
+                                <h1>Contact Us
+                                <a href=""><span class="my_popup_close fa fa-close"></span></a>
+                                </h1>
+                                
+                            <form method="post" action="#" id="contactform">
+                                <div class="col-lg-12 col-md-12 col-sx-12">
+                                	<label>Full Name </label>
+                                    <input type="text" id="name" name="name">
+                                </div>
+                                
+                                <div class="col-lg-12 col-md-12 col-sx-12">
+                                	<label>Email Address</label>
+                                    <input type="email" id="email" name="email">
+                                </div>
+                                <div class="col-lg-12 col-md-12 col-sx-12">
+                                	<label> Message</label>
+                                    <textarea name="message" id="message"  rows="6"></textarea>
+                                </div>
+                               <div class="col-lg-12 col-md-12 col-sx-12">
+								<input type="submit" id="button-send" class="btn btn-success btn-block" value="Send">
+								<div id="success">Your message has been successfully!</div>
+								<div id="error">Unable to send your message, please try later.</div>
+                               </div>
+                                
+
+                            </form>
+                        </div>
+                    </div>
+                </div>
+
+	   
+        <script src="js/jquery-1.9.1.min.js"></script>
+		<script src="js/jquery.nicescroll.js"></script>
+        <script src="js/jquery.countdown.min.js"></script>
+        <script src="js/jquery.popupoverlay.js"></script>
+        <script src="js/plugins.js"></script>
+        <script src="js/main.js"></script>
+		<script type="text/javascript">
+			function tomain(){
+				window.location.href="${pageContext.request.contextPath }/pages/main.jsp";
+			}
+		</script>
+    </body>
+</html>
